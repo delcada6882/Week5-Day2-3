@@ -1,0 +1,7 @@
+h1, p, h2, a {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: white;
+}
+html {
+    background-color: rgb(17, 2, 20);
+}
